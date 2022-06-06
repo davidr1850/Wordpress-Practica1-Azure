@@ -2,7 +2,7 @@
 
 Crear una pagina web Wordpress con recursos de Azure
 
-![Logo wordpress](https://github.com/davidr1850/Wordpress-Practica1-Azure/blob/main/imagenes/img1.PNG)
+![Logo wordpress](https://github.com/davidr1850/Wordpress-Practica1-Azure/blob/main/imagenes/img1.png)
 
 **REQUISITOS**
 - Una cuenta de [Azure](https://portal.azure.com/#home) con suscripcion activa
